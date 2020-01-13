@@ -2,6 +2,8 @@
 
 The code is written in Javascript for practising fundamentals.
 
+> You can access the game from here: https://mmertdogann.github.io/Dice-Rolling-Game/
+
 Here a sample image from gameplay:
 
 ![Game](img/game.png "Game Image")
