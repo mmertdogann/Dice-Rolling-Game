@@ -2,6 +2,11 @@
 
 The code is written in Javascript for practising fundamentals.
 
+Here a sample image from gameplay:
+
+Inline-style: 
+![Game](game.png "Game Image")
+
 ### Game Rules
 
 * The game has 2 players, playing in rounds
